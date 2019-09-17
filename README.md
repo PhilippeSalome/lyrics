@@ -1,3 +1,6 @@
 # lyrics
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PhilippeSalome/lyrics/master)
 
+mypath='/datartemix/ALMA/FITS'+relFITSFilePath
+#print(URL)
+print(mypath)

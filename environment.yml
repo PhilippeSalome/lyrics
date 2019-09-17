@@ -1,13 +1,5 @@
 name: lyrics
 
-channels:
-  - astropy
-
 dependencies:
-  - python=3.6
-  - IPython=6.1.0
   - astropy=3
-  - astroquery>=0.3.7
   - matplotlib==3.0.2
-  - numpy=1.14
-  - scipy=1.0 # needed for coordinates cross-matching
